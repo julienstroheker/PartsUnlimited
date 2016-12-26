@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Getting Started
-category: core
+category: coreBeta
 order: 0
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Quick Start
-category: v1
+category: core
 order: 0
 ---
 

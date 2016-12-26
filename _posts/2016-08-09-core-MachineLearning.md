@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Machine Learning
-category: core
+category: coreBeta
 order: 6
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Manual Deployment
-category: core
+category: coreBeta
 order: 4
 ---
 

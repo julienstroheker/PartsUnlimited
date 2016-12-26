@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Entity Framework 7
-category: core
+category: coreBeta
 order: 5
 ---
 

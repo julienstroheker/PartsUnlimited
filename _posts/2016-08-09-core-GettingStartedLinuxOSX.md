@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Getting Started on Linux and OSX
-category: core
+category: coreBeta
 order: 1
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title:  Authentication
 date:   2016-08-09 21:12:57
-category: core
+category: coreBeta
 order: 7
 ---
 
