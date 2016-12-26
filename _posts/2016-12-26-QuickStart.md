@@ -7,8 +7,8 @@ order: 0
 
 In this lab we have an application called PartsUnlimited. We want to set up Continuous Integration (CI) and Continuous Deployment (CD) with Visual Studio Team Services (VSTS). Continuous Integration builds the app and runs unit tests whenever code is pushed to the master branch. After CI step succeeds it will trigger a deployment to a `dev` deployment slot. The `staging` slot and `production` will require an approver before the app is deployed into them. Once the approver confirms that `staging` slot is stable, the app will be deployed to the production site.
 >**Note:** For more in-depth information on CI and CD please visit the following links:
-* [HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/v1/Continuous_Integration.html)
-* [HOL - Continuous Deployment with Release Management in Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/v1/Continuous_Deployment.html)
+* [HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/core/CI.html)
+* [HOL - Continuous Deployment with Release Management in Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/core/CD.html)
 
 
 
@@ -263,5 +263,5 @@ This allows you to receive feedback as to whether your changes contain syntactic
 
 To learn more in-depth information about CI and CD try out these labs:
 
-* [HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/v1/Continuous_Integration.html)
-* [HOL - Continuous Deployment with Release Management in Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/v1/Continuous_Deployment.html)
+* [HOL - Parts Unlimited WebSite Continuous Integration with Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/core/CI.html)
+* [HOL - Continuous Deployment with Release Management in Visual Studio Team Services](https://microsoft.github.io/PartsUnlimited/core/CD.html)
